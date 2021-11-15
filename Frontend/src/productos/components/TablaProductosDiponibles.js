@@ -17,7 +17,7 @@ const TablaProductos = () => {
         description: "Yuca por libra cultivada por campesinos de Bolívar",
         price: 1500,
         category: "Tubérculo",
-        url: "https://imagizer.imageshack.com/v2/355x452q90/r/922/3Aduv0.jpg",
+        url: "https://dam.cocinafacil.com.mx/wp-content/uploads/2020/07/yuca.jpg",
     },
     {
         id: "Ac003",
@@ -25,7 +25,7 @@ const TablaProductos = () => {
         description: "Arracacha por libra cultivada por campesinos de Boyacá",
         price: 900,
         category: "Tubérculo",
-        url: "https://imagizer.imageshack.com/v2/354x452q90/r/923/j11U97.jpg",
+        url: "https://www.jardineriaon.com/wp-content/uploads/2020/05/cultivo-de-la-arracacha.jpg",
     },
     {
         id: "Mz004",
@@ -33,7 +33,7 @@ const TablaProductos = () => {
         description: "Manzana organica por unidad",
         price: 1500,
         category: "Frutas",
-        url: "https://imagizer.imageshack.com/v2/354x452q90/r/924/dQw4EI.jpg",
+        url: "https://fruverlagranja.com/tienda/envigado/wp-content/uploads/sites/3/2020/05/manzana-royal.jpg",
     },
     {
         id: "Mv005",
@@ -41,7 +41,7 @@ const TablaProductos = () => {
         description: "Manzana organica por unidad",
         price: 1500,
         category: "Frutas",
-        url: "https://imagizer.imageshack.com/v2/354x452q90/r/922/bmxP8j.jpg",
+        url: "https://vaquitaexpress.com.co/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/1/216.jpg",
     },
     {
         id: "Uv006",
@@ -49,7 +49,7 @@ const TablaProductos = () => {
         description: "Uvas isbelinas organicas por bandeja ",
         price: 2000,
         category: "Frutas",
-        url: "https://imagizer.imageshack.com/v2/354x452q90/r/923/AFUdm3.jpg",
+        url: "https://fruverianda.com/wp-content/uploads/2020/05/UVA-ISABELLA.jpg",
     },
     {
         id: "Lv007",
@@ -57,7 +57,7 @@ const TablaProductos = () => {
         description: "leche de vaca por litro ordeñada por campesinos cundiboyacenses",
         price: 3000,
         category: "Lácteos",
-        url: "https://imagizer.imageshack.com/v2/339x452q90/r/924/l2E2LC.jpg",
+        url: "http://c.files.bbci.co.uk/B4B5/production/_110216264_gettyimages-1089375390.jpg",
     },
     {
         id: "Lc008",
@@ -65,7 +65,7 @@ const TablaProductos = () => {
         description: "leche de cabra por litro ordeñada por campesinos de cundinamarca",
         price: 3500,
         category: "Lácteos",
-        url: "https://imagizer.imageshack.com/v2/339x452q90/r/922/xiTUbx.jpg",
+        url: "https://zoovetesmipasion.com/wp-content/uploads/2018/05/leche-de-cabra-2.jpg",
     },
     {
         id: "Hg009",
@@ -73,7 +73,7 @@ const TablaProductos = () => {
         description: "Huevos de gallinas organicos bandeja por 30 unidades ",
         price: 16000,
         category: "Huevos",
-        url: "https://imagizer.imageshack.com/v2/339x452q90/r/923/ROalUA.jpg",
+        url: "https://certifiedhumanelatino.org/wp-content/uploads/2019/07/gallinas-feliz-chile.jpg",
     },
     {
         id: "Hc010",
@@ -81,7 +81,7 @@ const TablaProductos = () => {
         description: "Huevos de codorniz organicos bandeja por 12",
         price: 7000,
         category: "Huevos",
-        url: "https://imagizer.imageshack.com/v2/339x452q90/r/924/DRc1dm.jpg",
+        url: "https://certifiedhumanelatino.org/wp-content/uploads/2019/07/gallinas-feliz-chile.jpg",
     },
     {
         id: "LhC011",
@@ -89,7 +89,7 @@ const TablaProductos = () => {
         description: "lechuga crespa organica",
         price: 2000,
         category: "Vegetales",
-        url: "https://imagizer.imageshack.com/v2/339x452q90/r/922/ElFXSA.jpg",
+        url: "https://comeencasamedellin.com/wp-content/uploads/2020/12/lechuga-don-jesus.jpg",
     },
     {
         id: "Ep012",
@@ -97,7 +97,7 @@ const TablaProductos = () => {
         description: "Espinaca organica",
         price: 2000,
         category: "Vegetales",
-        url: "https://imagizer.imageshack.com/v2/339x452q90/r/924/MlGEvC.jpg",
+        url: "https://i.blogs.es/5ee30a/istock-522189977/450_1000.jpg",
     },
 ];
 
