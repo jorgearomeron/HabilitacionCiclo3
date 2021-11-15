@@ -5,22 +5,18 @@ import VentaForm from "../components/VentasForm";
 
 const SistemaVentas = ({ ventas, setVentas }) => {
   const categorias = [
-    { id: 1, nombre: "Moderno" },
-    { id: 2, nombre: "Informal" },
-    { id: 3, nombre: "Bohemio" },
-    { id: 4, nombre: "Clasico" },
-    { id: 5, nombre: "Deportes" },
-    { id: 6, nombre: "Elegante" },
-    { id: 7, nombre: "Casual" },
-    { id: 8, nombre: "Juvenil" },
+    { id: 1, nombre: "Tubérculo" },
+    { id: 2, nombre: "Frutas" },
+    { id: 3, nombre: "Lácteos" },
+    { id: 4, nombre: "Huevos" },
+    { id: 5, nombre: "Vegetales" },
   ];
 
   const vendedores = [
-    { id: 100, nombre: "Andrea" },
-    { id: 200, nombre: "Camila" },
-    { id: 300, nombre: "Edison" },
-    { id: 400, nombre: "Jairo" },
-    { id: 500, nombre: "Yefferson" },
+    { id: 100, nombre: "Ana" },
+    { id: 200, nombre: "Santiago" },
+    { id: 300, nombre: "Laura" },
+    { id: 400, nombre: "Eduardo" },
   ];
 
   const [error, setError] = useState();
@@ -74,3 +70,4 @@ const SistemaVentas = ({ ventas, setVentas }) => {
 };
 
 export default SistemaVentas;
+
