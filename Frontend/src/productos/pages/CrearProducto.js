@@ -61,4 +61,3 @@ const CrearProducto = ({ productos, setProductos }) => {
 };
 
 export default CrearProducto;
-
