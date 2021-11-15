@@ -7,14 +7,11 @@ import VentasForm from "../components/VentasForm";
 const EditarVenta = ({ ventas, setVentas }) => {
   const history = useHistory();
   const categorias = [
-    { id: 1, nombre: "Moderno" },
-    { id: 2, nombre: "Informal" },
-    { id: 3, nombre: "Bohemio" },
-    { id: 4, nombre: "Clasico" },
-    { id: 5, nombre: "Deportes" },
-    { id: 6, nombre: "Elegante" },
-    { id: 7, nombre: "Casual" },
-    { id: 8, nombre: "Juvenil" },
+    { id: 1, nombre: "Tubérculo" },
+    { id: 2, nombre: "Frutas" },
+    { id: 3, nombre: "Lácteos" },
+    { id: 4, nombre: "Huevos" },
+    { id: 5, nombre: "Vegetales" },
   ];
   const [error, setError] = useState();
   const [success, setSuccess] = useState();
